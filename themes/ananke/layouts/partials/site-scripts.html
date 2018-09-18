@@ -1,0 +1,15 @@
+{{ $script := .Site.Data.webpack_assets.app }}
+{{ with $script.js }}
+<script src="{{ relURL (printf "%s%s" "dist/" .) }}"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+{{ end }}
