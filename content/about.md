@@ -12,4 +12,4 @@ A Chicago native, Nathan loves the Chicago Bulls, the Chicago Cubs, and good piz
 
 One verse that has resonated with Nathan throughout his life is Isaiah 6:8
 
-> “And I heard the voice of the Lord saying, ‘Whom shall I send, and who will go for us?’ Then I said ‘Here I am! Send me.'”
+> And I heard the voice of the Lord saying, "Whom shall I send, and who will go for us?" Then I said "Here I am! Send me."
