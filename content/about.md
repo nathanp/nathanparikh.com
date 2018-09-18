@@ -4,7 +4,7 @@ description: Follower of Christ. Husband. Pastor.
 date: 2018-09-18T03:25:07.276Z
 featured_image: ''
 ---
-Nathan Parikh is currently the Young Adult and Communications Pastor for <a href="https://hbcfw.org/" target="_blank">Hallmark Baptist Church</a> in Fort Worth, Texas.
+Nathan Parikh is currently the Young Adult and Communications Pastor for <a href="https://hcbfw.org/" target="_blank">Hallmark Baptist Church</a> in Fort Worth, Texas.
 
 Nathan completed his Bachelor degree in Pastoral Ministries from Pensacola Christian College in 2011. He earned his Master of Divinity from Southwestern Baptist Theological Seminary in 2014. He has served a variety of local churches in Illinois, Florida, Alabama, and Texas.
 
